@@ -15,8 +15,8 @@ A collection of small Python applications and scripts for learning, experimentat
 ## Apps Included
 
 - `Calculater_with_gui` - simple tkinter based calcultor
-- `app2.py` - Description of app 2
-- *(Add more apps as needed)*
+- `Unit Converter` - simple tkinter based unit converter to calculate meter,kilometer,inches,feet
+- 
 
 ## Contributing
 

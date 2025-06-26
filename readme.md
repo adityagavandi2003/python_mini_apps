@@ -16,7 +16,7 @@ A collection of small Python applications and scripts for learning, experimentat
 
 - `Calculater_with_gui` - simple tkinter based calcultor
 - `Unit Converter` - simple tkinter based unit converter to calculate meter,kilometer,inches,feet
-- 
+- `Typing speed checker` - simple tk based typing speed checker 
 
 ## Contributing
 
